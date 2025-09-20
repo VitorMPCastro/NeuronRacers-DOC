@@ -1,0 +1,1 @@
+This folder follows the same file structure as the folders in the game.
